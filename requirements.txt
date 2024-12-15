@@ -1,0 +1,12 @@
+langchain
+openai
+chromadb
+faiss-cpu
+pypdf
+sentence-transformers
+llama-index
+streamlit
+
+
+
+gradio

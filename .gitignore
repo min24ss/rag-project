@@ -1,0 +1,15 @@
+
+
+# IPython/Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Pickle and embeddings files
+*.pkl
+embeddings.pkl
+embedding_vectors.pkl
+
+# FAISS index folders
+faiss_index/
+faiss_hf_index/
+faiss_openai_index/
+
