@@ -1,12 +1,11 @@
-langchain
-openai
-chromadb
-faiss-cpu
-pypdf
-sentence-transformers
-llama-index
-streamlit
+python==3.11.11
+langchain==0.3.11
+openai==1.57.4
+chromadb==0.5.23
+faiss-cpu==1.9.0.post1
+pypdf==5.1.0
+sentence-transformers==3.3.1
+llama-index==0.12.5
+streamlit==1.41.1
+gradio==5.9.0
 
-
-
-gradio
